@@ -1,0 +1,58 @@
+body {
+    background-color: grey;
+    margin: 1% 10% 1% 10%;
+    }
+
+h1  {
+    background-color: white;
+}
+
+nav {
+    background-color: white;
+    margin:0% 0% 1% 0%;
+}
+
+section {
+    float: left;
+    background-color: white;
+    width: 50%;
+    height: 200px;
+    margin: 1% 1% 1% 0%;
+}
+
+#article {
+    background-color: grey;
+    margin: 1%;
+    height: 75%;
+}
+
+#topbox {
+    float: left;
+    background-color: white;
+    /* width: 45%;
+    height: 200px; */
+    margin: 1% 1% 1% 0%;
+}
+
+#bottombox {
+    float: left;
+    background-color: white;
+    /* width: 45%;
+    height: 200px; */
+    margin: 1% 1% 1% 0%;
+}
+
+aside {
+    float: left;
+    background-color: white;
+    width: 45%;
+    height: 200px;
+    margin: 1% 1% 1% 0%;
+}
+
+footer {
+    float: left;
+    width: 100%;
+    background-color: white;
+    margin: 1% 1% 1% 0%;
+}
